@@ -1,3 +1,3 @@
 # Projeto-Scratch
 
-Prpfessor: Alessandro
+Professor: Alessandro
